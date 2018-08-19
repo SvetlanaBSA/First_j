@@ -16,9 +16,9 @@ public class Task2 {
             System.out.println("Error: incorrect data");
         else {
             //Вычислим диагональ прямоугольника
-            int diag = (int) Math.sqrt(a * a + b * b);
+            int diag = (int) Math.sqrt(a * a + b * b); //5
             //Проверяем можно ли закрыть прямоугольник
-            if (radius >= diag / 2)
+            if (radius >= (diag / 2))
                 System.out.println("Yes. Rectangle is covered with circle.");
             else
                 System.out.println("No. Rectangle is covered with circle.");
