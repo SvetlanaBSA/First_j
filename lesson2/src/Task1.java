@@ -1,4 +1,4 @@
-public class Lesso2_Task1 {
+public class Task1 {
     public static void main(String[] args) {
         /*Создайте любое число. Определите, является ли последняя цифра числа семеркой.*/
         //Зададим число с помощью random в промежутке от 0 до 100
