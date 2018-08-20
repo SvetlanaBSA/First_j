@@ -15,7 +15,7 @@ public class Task4 {
                 System.out.println((day + 1) + "." + month + "." + year);
             else {
                 switch (day) {
-                    case 28: {
+                    case 28:
                         if (month == 2) {
                             if (year % 4 == 0)
                                 System.out.println("29.2." + year);
@@ -24,8 +24,7 @@ public class Task4 {
                         } else
                             System.out.println("30." + month + "." + year);
                         break;
-                    }
-                    case 29: {
+                    case 29:
                         if (month == 2)
                             if (year % 4 == 0)
                                 System.out.println("1.3." + year);
@@ -34,8 +33,7 @@ public class Task4 {
                         else
                             System.out.println("30." + month + "." + year);
                         break;
-                    }
-                    case 30: {
+                    case 30:
                         if (month == 4 || month == 6 || month == 9 || month == 11)
                             System.out.println("1." + ++month + "." + year);
                         else
@@ -44,8 +42,7 @@ public class Task4 {
                             else
                                 System.out.println("31." + month + "." + year);
                         break;
-                    }
-                    case 31: {
+                    case 31:
                         if (month == 12)
                             System.out.println("01.01." + ++year);
                         else
@@ -54,7 +51,6 @@ public class Task4 {
                             else
                                 System.out.println("01." + ++month + "." + year);
                         break;
-                    }
                 }
             }
         }
