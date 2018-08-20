@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Task4 {
     public static void main(String[] args) {
         /*Имеются три числа — день, месяц, год. Вывести в виде трех чисел дату следующего дня.*/
