@@ -5,6 +5,7 @@ public class Task4 {
         int month = 2; //(int) (Math.random()*12+1);
         int year = 2000; //(int) (Math.random()*2018+1);
         System.out.println("day.month.year = " + day + "." + month + "." + year);
+        //В Григорианском календаре год является високосным в двух случаях: либо он кратен 4, но при этом не кратен 100, либо кратен 400.
         //System.out.println("year % 4 = " + year % 4); //Для проверки. Если = 0, то год высокосный
         //Проверим, что все введенные значения допустимые
         if ((0 < day && day < 32) && (0 < month && month < 13) && (0 < year)) {
@@ -26,7 +27,7 @@ public class Task4 {
                         break;
                     case 29:
                         if (month == 2)
-                            if (year % 4 == 0)
+                            if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0))
                                 System.out.println("1.3." + year);
                             else
                                 System.out.println("Error. Incorrect data."+ " " + month + " month hasn't 29 date at " + year + " year.");
