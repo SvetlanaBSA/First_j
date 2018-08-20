@@ -1,6 +1,5 @@
 public class Task4 {
     public static void main(String[] args) {
-        /*Имеются три числа — день, месяц, год. Вывести в виде трех чисел дату следующего дня.*/
         int day = 29; //(int) (Math.random()*30+1);
         int month = 2; //(int) (Math.random()*12+1);
         int year = 2000; //(int) (Math.random()*2018+1);

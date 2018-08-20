@@ -1,7 +1,5 @@
 public class Task7 {
     public static void main(String[] args) {
-        /*Имеется целое число (любое), это число — сумма денег в рублях.
-        Вывести это число, добавив к нему слово «рублей» в правильном падеже.*/
         int number = 48;
         if (number >= 0) {
             if ((number % 100) > 10 && (number % 100) < 20)
