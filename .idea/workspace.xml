@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="" />
-=======
     <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson3/SearchInMassive.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/src/DuplicatesArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/src/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/src/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/src/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/src/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/src/SearchInMassive.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/SearchInMassive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task7.class" afterDir="false" />
     </list>
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,72 +22,54 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lessons$DuplicatesArray.ic" NAME="DuplicatesArray Coverage Results" MODIFIED="1535052191565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-808867454">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-<<<<<<< HEAD
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
-=======
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="3" />
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="bat" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4209" />
+          <entry key="bat" value="130" />
+          <entry key="java" value="5677" />
+          <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4209" />
+          <entry key="JAVA" value="5677" />
+          <entry key="PLAIN_TEXT" value="172" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/Task1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/Task3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/Task2.java">
+        <entry file="file://$PROJECT_DIR$/lesson3/src/SearchInMassive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
@@ -97,37 +78,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/Task4.java">
+        <entry file="file://$PROJECT_DIR$/lesson3/SearchInMassive.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            <state relative-caret-position="51">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/Task5.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson3/src/DuplicatesArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/Task6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/Task7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            <state relative-caret-position="374">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -142,6 +105,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="SvetlanaBSA &lt;42421614+svetlanabsa@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -154,12 +122,15 @@
         <option value="$PROJECT_DIR$/lesson2/src/Task3.java" />
         <option value="$PROJECT_DIR$/lesson2/src/Task2.java" />
         <option value="$PROJECT_DIR$/lesson2/src/Task1.java" />
+        <option value="$PROJECT_DIR$/lesson3/SearchInMassive.bat" />
+        <option value="$PROJECT_DIR$/lesson3/src/SearchInMassive.java" />
+        <option value="$PROJECT_DIR$/lesson3/src/DuplicatesArray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="117" />
-    <option name="y" value="11" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="212" />
+    <option name="y" value="34" />
     <option name="width" value="1464" />
     <option name="height" value="1000" />
   </component>
@@ -169,10 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="PackagesPane" />
-=======
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,7 +151,37 @@
             <path>
               <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,16 +189,11 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534799525864" />
-<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535056038009" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson3" />
-=======
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,7 +207,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task4">
+  <component name="RunManager" selected="Application.DuplicatesArray">
+    <configuration name="DuplicatesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicatesArray" />
+      <module name="lesson3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInMassive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchInMassive" />
+      <module name="lesson3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2" />
       <module name="lesson2" />
@@ -264,9 +271,13 @@
       <item itemvalue="Application.Task7" />
       <item itemvalue="Application.Task2" />
       <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.SearchInMassive" />
+      <item itemvalue="Application.DuplicatesArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicatesArray" />
+        <item itemvalue="Application.SearchInMassive" />
         <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
@@ -282,6 +293,14 @@
       <option name="presentableId" value="Default" />
       <updated>1534710048844</updated>
     </task>
+    <task id="LOCAL-00001" summary="Searching in massiv max and min values.">
+      <created>1535050392804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535050392804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -294,30 +313,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="11" width="1464" height="1000" extended-state="0" />
+    <frame x="212" y="34" width="1464" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21652421" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21367522" />
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32977462" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32977462" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.32977462" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.41399762" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39976275" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32977462" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32977462" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32977462" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32977208" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -359,45 +376,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Searching in massiv max and min values." />
+    <option name="LAST_COMMIT_MESSAGE" value="Searching in massiv max and min values." />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lesson2/lesson2.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/lesson2/src/Task1.java">
-=======
-    <entry file="file://$PROJECT_DIR$/lesson2/src/Task7.java">
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lesson2/src/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-=======
-    <entry file="file://$PROJECT_DIR$/lesson2/src/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/src/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-<<<<<<< HEAD
-          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
-=======
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/src/Task4.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -406,7 +394,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lesson2/src/Task5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -421,15 +408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/src/Task7.java">
-=======
-    <entry file="file://$PROJECT_DIR$/lesson2/src/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/src/Task7.java" />
     <entry file="file://$PROJECT_DIR$/lesson2/src/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -437,11 +416,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4845">
+          <caret line="330" column="64" selection-start-line="330" selection-start-column="64" selection-end-line="330" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/src/Task1.java">
->>>>>>> 3333631565820f6aa68c39cf09742acd735fee04
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/SearchInMassive.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/src/SearchInMassive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/src/DuplicatesArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>
