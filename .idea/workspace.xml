@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson3/SearchInMassive.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/src/DuplicatesArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/DuplicatesArray.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/src/SearchInMassive.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/SearchInMassive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson2/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson2/Task7.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +29,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="bat" value="1" />
+          <entry key="bat" value="2" />
           <entry key="iml" value="1" />
           <entry key="java" value="12" />
         </counts>
@@ -48,31 +38,31 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="12" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="bat" value="130" />
-          <entry key="java" value="5677" />
+          <entry key="bat" value="239" />
+          <entry key="java" value="5713" />
           <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5677" />
-          <entry key="PLAIN_TEXT" value="172" />
+          <entry key="JAVA" value="5713" />
+          <entry key="PLAIN_TEXT" value="281" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson3/src/SearchInMassive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+            <state relative-caret-position="412">
+              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -86,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson3/src/DuplicatesArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="340">
+              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson3/DuplicatesArray.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -123,8 +122,9 @@
         <option value="$PROJECT_DIR$/lesson2/src/Task2.java" />
         <option value="$PROJECT_DIR$/lesson2/src/Task1.java" />
         <option value="$PROJECT_DIR$/lesson3/SearchInMassive.bat" />
-        <option value="$PROJECT_DIR$/lesson3/src/SearchInMassive.java" />
         <option value="$PROJECT_DIR$/lesson3/src/DuplicatesArray.java" />
+        <option value="$PROJECT_DIR$/lesson3/DuplicatesArray.bat" />
+        <option value="$PROJECT_DIR$/lesson3/src/SearchInMassive.java" />
       </list>
     </option>
   </component>
@@ -192,7 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535056038009" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535056705927" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson3" />
   </component>
   <component name="RunDashboard">
@@ -207,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuplicatesArray">
+  <component name="RunManager" selected="Application.SearchInMassive">
     <configuration name="DuplicatesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicatesArray" />
       <module name="lesson3" />
@@ -276,8 +276,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DuplicatesArray" />
         <item itemvalue="Application.SearchInMassive" />
+        <item itemvalue="Application.DuplicatesArray" />
         <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
@@ -437,17 +437,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/src/SearchInMassive.java">
+    <entry file="file://$PROJECT_DIR$/lesson3/DuplicatesArray.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/src/DuplicatesArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="340">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/src/SearchInMassive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
         </state>
       </provider>
     </entry>
