@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="329bfda1-ae80-44cc-98a9-cf6e37a6ed7c" name="Default Changelist" comment="Array sorting.">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
@@ -71,12 +72,15 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 6dea88e373bd840fd87d0bde1372ba9fbde2409b
   <component name="ProjectFrameBounds">
     <option name="x" value="212" />
     <option name="y" value="34" />
     <option name="width" value="1464" />
     <option name="height" value="1000" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -209,6 +213,10 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 6dea88e373bd840fd87d0bde1372ba9fbde2409b
   </component>
   <component name="masterDetails">
     <states>
