@@ -171,8 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+      <pane id="Scope" />
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -225,10 +225,8 @@
             </path>
 			  <item name="Lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-			<path>
-			</path>
+            <path/>
           </expand>
-          <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
