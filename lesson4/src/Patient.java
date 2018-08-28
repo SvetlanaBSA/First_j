@@ -37,7 +37,6 @@ public class Patient {
             String value = scanner.next();
             illOrNo[i] = "yes".equals(value);
             }
-        scanner.close();
     }
 
 
@@ -63,7 +62,6 @@ public class Patient {
         Scanner scanner = new Scanner(in);
         String searchName;
         searchName = scanner.next();
-        scanner.close();
         for (int i = 0; i < 3; i++) {
             if (Objects.equals(searchName, allNames[i])) {
                 System.out.println("Пациент " + allNames[i] + " - Возраст = " + allAges[i] + ", Болеет: " + illOrNo[i]);

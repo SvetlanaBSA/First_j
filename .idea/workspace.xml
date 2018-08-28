@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lesson3/RevertArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lesson3/RevertArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/Patient.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,15 +48,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bat" value="552" />
-          <entry key="java" value="8170" />
-          <entry key="txt" value="108" />
+          <entry key="java" value="8172" />
+          <entry key="txt" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bat" value="219" />
-          <entry key="JAVA" value="8170" />
-          <entry key="PLAIN_TEXT" value="441" />
+          <entry key="JAVA" value="8172" />
+          <entry key="PLAIN_TEXT" value="451" />
         </counts>
       </usages-collector>
     </session>
@@ -76,16 +76,16 @@
         <entry file="file://$PROJECT_DIR$/lesson3/src/RevertArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson3/src/AscendingSequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -99,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson4/src/Patient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+            <state relative-caret-position="119">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -212,7 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535480056286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535480622362" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -232,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AscendingSequence">
+  <component name="RunManager" selected="Application.Patient">
     <configuration name="AscendingSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AscendingSequence" />
       <module name="lesson3" />
@@ -240,15 +240,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevertArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RevertArray" />
-      <module name="lesson3" />
+    <configuration name="Patient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patient" />
+      <module name="lesson4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInMassive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchInMassive" />
+    <configuration name="RevertArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevertArray" />
       <module name="lesson3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -313,19 +313,19 @@
       <item itemvalue="Application.Task6" />
       <item itemvalue="Application.Task7" />
       <item itemvalue="Application.Task2" />
-      <item itemvalue="Application.SearchInMassive" />
       <item itemvalue="Application.RevertArray" />
       <item itemvalue="Application.AscendingSequence" />
       <item itemvalue="Application.SortArray" />
       <item itemvalue="Batch.SortArray" />
+      <item itemvalue="Application.Patient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Patient" />
         <item itemvalue="Application.AscendingSequence" />
         <item itemvalue="Application.RevertArray" />
         <item itemvalue="Batch.SortArray" />
         <item itemvalue="Application.SortArray" />
-        <item itemvalue="Application.SearchInMassive" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +417,21 @@
       <option name="project" value="LOCAL" />
       <updated>1535480079242</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge branch 'master' of https://github.com/SvetlanaBSA/First_j">
+      <created>1535480105522</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1535480105522</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1535480442065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1535480442065</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -431,6 +445,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="212" y="34" width="1464" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -441,10 +456,10 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32977462" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="2" visible="true" weight="0.32977462" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32977462" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.41399762" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.41399762" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39976275" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -501,7 +516,9 @@
     <MESSAGE value="Array sorting." />
     <MESSAGE value="Merge branches 'master', 'master' and 'master' of https://github.com/SvetlanaBSA/First_j" />
     <MESSAGE value="Merge branch 'master' of https://github.com/SvetlanaBSA/First_j" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/SvetlanaBSA/First_j" />
+    <MESSAGE value="Patient" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lesson2/lesson2.iml">
@@ -605,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/lesson3/src/RevertArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -623,16 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/src/Patient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/src/SortArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -643,7 +650,17 @@
     <entry file="file://$PROJECT_DIR$/lesson3/src/AscendingSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/src/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
