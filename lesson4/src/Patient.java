@@ -82,9 +82,9 @@ public class Patient {
         for (int i = 0; i < 3; i++) {
             if (allAges[i] == searchAge) {
                 System.out.println("Пациент " + allNames[i] + " - Возраст = " + allAges[i] + ", Болеет: " + illOrNo[i]);
-            } /*else if (!(allAges[i] == searchAge) && i == 2) {
+            } else if (i == 2) {
                 System.out.println("Нет пациента с возрастом " + searchAge);
-            }*/
+            }
             scanner.close();
         }
     }
