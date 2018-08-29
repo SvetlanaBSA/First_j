@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="Time difference and all seconds.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/Task3/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/src/Task3/Time.java" afterDir="false" />
+    <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/Task2/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/src/Task3/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/Task3/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,30 +50,30 @@
         <counts>
           <entry key="bat" value="552" />
           <entry key="java" value="9720" />
-          <entry key="txt" value="153" />
+          <entry key="txt" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bat" value="219" />
           <entry key="JAVA" value="9720" />
-          <entry key="PLAIN_TEXT" value="486" />
+          <entry key="PLAIN_TEXT" value="487" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Main3.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Time.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -137,10 +133,10 @@
         <option value="$PROJECT_DIR$/lesson3/src/AscendingSequence.java" />
         <option value="$PROJECT_DIR$/lesson4/src/Patient.java" />
         <option value="$PROJECT_DIR$/lesson4/src/Task2/Patient.java" />
-        <option value="$PROJECT_DIR$/lesson4/src/Task3/Main.java" />
         <option value="$PROJECT_DIR$/lesson4/src/Task2/Main.java" />
-        <option value="$PROJECT_DIR$/lesson4/src/Task3/Main3.java" />
         <option value="$PROJECT_DIR$/lesson4/src/Task3/Time.java" />
+        <option value="$PROJECT_DIR$/lesson4/src/Task3/Main3.java" />
+        <option value="$PROJECT_DIR$/lesson4/src/Task3/Main.java" />
       </list>
     </option>
   </component>
@@ -205,7 +201,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535574824024" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535576159320" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -246,8 +242,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3.Main3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3.Main" />
       <module name="lesson4" />
       <extension name="coverage">
         <pattern>
@@ -439,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535480673900</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Time difference and all seconds.">
+      <created>1535575104406</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1535575104407</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -453,6 +456,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="212" y="34" width="1464" height="853" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -687,13 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Time.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -708,6 +705,13 @@
             <element signature="e#905#906#0" expanded="true" />
             <element signature="e#941#942#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
