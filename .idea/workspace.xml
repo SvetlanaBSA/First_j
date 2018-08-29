@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="">
+    <list default="true" id="34f0ed67-4df2-4029-8432-b59a76930273" name="Default Changelist" comment="Time difference and all seconds.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/Task3/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/src/Task3/Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/Task2/Patient.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +23,21 @@
     <session id="-808867454">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bat" value="6" />
           <entry key="iml" value="1" />
-          <entry key="java" value="19" />
+          <entry key="java" value="30" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -40,7 +45,7 @@
         <counts>
           <entry key="Bat" value="3" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="30" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -48,15 +53,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bat" value="552" />
-          <entry key="java" value="8172" />
-          <entry key="txt" value="118" />
+          <entry key="java" value="9720" />
+          <entry key="txt" value="153" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bat" value="219" />
-          <entry key="JAVA" value="8172" />
-          <entry key="PLAIN_TEXT" value="451" />
+          <entry key="JAVA" value="9720" />
+          <entry key="PLAIN_TEXT" value="486" />
         </counts>
       </usages-collector>
     </session>
@@ -64,48 +69,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/SortArray.bat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/src/RevertArray.java">
+        <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/src/AscendingSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/src/SortArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson4/src/Patient.java">
+        <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Time.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <state relative-caret-position="85">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,6 +136,11 @@
         <option value="$PROJECT_DIR$/lesson3/src/RevertArray.java" />
         <option value="$PROJECT_DIR$/lesson3/src/AscendingSequence.java" />
         <option value="$PROJECT_DIR$/lesson4/src/Patient.java" />
+        <option value="$PROJECT_DIR$/lesson4/src/Task2/Patient.java" />
+        <option value="$PROJECT_DIR$/lesson4/src/Task3/Main.java" />
+        <option value="$PROJECT_DIR$/lesson4/src/Task2/Main.java" />
+        <option value="$PROJECT_DIR$/lesson4/src/Task3/Main3.java" />
+        <option value="$PROJECT_DIR$/lesson4/src/Task3/Time.java" />
       </list>
     </option>
   </component>
@@ -158,7 +148,7 @@
     <option name="x" value="212" />
     <option name="y" value="34" />
     <option name="width" value="1464" />
-    <option name="height" value="1000" />
+    <option name="height" value="853" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,31 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="lesson3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="lesson3" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="lesson4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="lesson4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,12 +172,40 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="lesson4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="lesson4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="lesson4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Task2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Lessons" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="lesson4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Task3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535480622362" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535574824024" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -232,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Patient">
+  <component name="RunManager">
     <configuration name="AscendingSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AscendingSequence" />
       <module name="lesson3" />
@@ -240,8 +233,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Main" />
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3.Main3" />
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Patient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patient" />
+      <option name="MAIN_CLASS_NAME" value="Task2.Patient" />
       <module name="lesson4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -249,13 +268,6 @@
     </configuration>
     <configuration name="RevertArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RevertArray" />
-      <module name="lesson3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortArray" />
       <module name="lesson3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -296,17 +308,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="lesson3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="D:\Java_PVT\Lessons\lesson3" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="SortArray.bat" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Task4" />
       <item itemvalue="Application.Task5" />
@@ -315,17 +316,17 @@
       <item itemvalue="Application.Task2" />
       <item itemvalue="Application.RevertArray" />
       <item itemvalue="Application.AscendingSequence" />
-      <item itemvalue="Application.SortArray" />
-      <item itemvalue="Batch.SortArray" />
       <item itemvalue="Application.Patient" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Patient" />
         <item itemvalue="Application.AscendingSequence" />
         <item itemvalue="Application.RevertArray" />
-        <item itemvalue="Batch.SortArray" />
-        <item itemvalue="Application.SortArray" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535480442065</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1535480673900</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1535480673900</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -444,27 +452,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="34" width="1464" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="212" y="34" width="1464" height="853" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26068377" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.264245" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32977462" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32977462" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="2" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.41399762" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.41379312" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39976275" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32977462" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32977462" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275862" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -481,19 +488,19 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25356126" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.264245" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32977462" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32977462" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32977462" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.41379312" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39976275" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32977462" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32977462" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275862" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -502,6 +509,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32977208" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -518,7 +526,8 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/SvetlanaBSA/First_j" />
     <MESSAGE value="Patient" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Time difference and all seconds." />
+    <option name="LAST_COMMIT_MESSAGE" value="Time difference and all seconds." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lesson2/lesson2.iml">
@@ -619,13 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/src/RevertArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -640,10 +642,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/src/SortArray.java">
+    <entry file="file://$PROJECT_DIR$/lesson3/src/RevertArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        <state relative-caret-position="238">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -654,12 +656,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/src/Patient.java">
+    <entry file="file://$PROJECT_DIR$/lesson3/src/SortArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/src/Task2/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/src/Task2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1147" column="15" lean-forward="true" selection-start-line="1147" selection-start-column="15" selection-end-line="1147" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/src/Task3/Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
           </folding>
         </state>
       </provider>
